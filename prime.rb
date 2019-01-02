@@ -5,4 +5,5 @@ def prime?
      array << n
      n += 1
   end
+  array
 end
