@@ -2,5 +2,7 @@ def prime?
   n = 0
   array = []
   while n < 100
-     array.
+     array << n
+     n += 1
+   end
 end
