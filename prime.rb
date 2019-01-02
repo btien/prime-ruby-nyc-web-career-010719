@@ -1,5 +1,5 @@
 def prime?(int)
-  n = 0
+  n = 1
   array = []
   while n < 100
      array << n
