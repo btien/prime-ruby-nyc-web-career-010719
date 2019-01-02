@@ -8,8 +8,7 @@ def prime?(int)
   m = 0
   a = 0
   while m < 100
-    if int % array[m] == 0 
-      return FALSE
+    if int % array[m] > 0 
       a += 1
     end
     m += 1
